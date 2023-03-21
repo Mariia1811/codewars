@@ -5,5 +5,9 @@
 // }
 // console.log(smash(["hello", "amazing", "world"]));
 
-
-
+// ---2--- У цьому простому завданні вам дано число, і ви повинні зробити його від’ємним. Але, може, число вже негативне?
+// function makeNegative(num) {
+//   if (num <= 0) return num;
+//   return num * -1;
+// }
+// console.log(makeNegative(42));
