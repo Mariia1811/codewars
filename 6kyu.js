@@ -6,3 +6,27 @@
 // console.log(duplicateEncode("recede"));
 // console.log(duplicateEncode("Success"));
 // console.log(duplicateEncode("(( @"));
+
+// ---2---Ваше завдання полягає в тому, щоб реалізувати функцію, яка приймала б азбуку Морзе як вхідні дані та повертала б декодований зрозумілий людині рядок.
+// const decodeMorse = function (morseCode) {
+//   return morseCode
+//     .split("   ")
+//     .map((s) => s.split(" "))
+//     .map((s) => s.map((s) => MORSE_CODE[s]))
+//     .map((s) => s.join(""))
+//     .join(" ")
+//     .trim();
+// };
+// console.log(decodeMorse(".... . -.--   .--- ..- -.. ."));
+// console.log(decodeMorse("   .... . -.--   "));
+// console.log(decodeMorse("...   ---   ..."));
+// console.log(
+//   decodeMorse(
+//     "      ...---... -.-.--   - .... .   --.- ..- .. -.-. -.-   -... .-. --- .-- -.   ..-. --- -..-   .--- ..- -- .--. ...   --- ...- . .-.   - .... .   .-.. .- --.. -.--   -.. --- --. .-.-.-  "
+//   )
+// );
+// ---3---Дано масив цілих чисел, знайдіть те, яке з’являється непарну кількість разів.Завжди буде лише одне ціле число, яке з’являється непарну кількість разів.
+// function findOdd(A) {
+//   //happy coding!
+//   return 0;
+// }
