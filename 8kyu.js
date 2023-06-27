@@ -32,4 +32,18 @@
 // console.log(firstNonConsecutive([1, 2, 3, 4, 6, 7, 8]));
 // console.log(firstNonConsecutive([1, 2, 3, 4, 6, 7, 8]));
 
+// --5-- Нам потрібна функція, яка може перетворити рядок на число. Які шляхи досягнення цього ви знаєте?П
+// const stringToNumber = function (str) {
+//   return +str;
+// };
+// console.log(stringToNumber("1234"));
+// console.log(stringToNumber("-7"));
 
+--6--У вашому класі був контроль, і ви його склали. Щиро вітаю!Але ти амбітна людина. Ви хочете знати, чи ви кращий за середнього учня у вашому класі.Ви отримуєте масив із результатами тестів ваших однолітків. Тепер обчисліть середнє значення та порівняйте свій бал!Повертайся True, якщо тобі краще, інакше False!
+
+function betterThanAverage(classPoints, yourPoints) {
+  // Your code here
+}
+
+console.log(order("is2 Thi1s T4est 3a"));
+console.log(order("4of Fo1r pe6ople g3ood th5e the2"));
